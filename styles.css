@@ -68,18 +68,45 @@ ul {
 
  .img {
     display: flex;
-    flex-shrink: 0;
+    flex-shrink: 1;
     width: 500px;
-    background-color: lightslategray;
     justify-content: center;
     align-items: center;
  }
 
  img {
     width: 500px;
+    flex-shrink: 1;
  }
 
  .text {
     color: #e5e7eb;
     font-size: 18px;
  }
+
+ .information {
+    display: flex;
+    flex-direction: column; 
+}
+
+.title {
+    display: flex;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bolder;
+    justify-content: center;
+    align-items: center;
+    margin: 48px;
+}
+
+.item-container {
+    display: flex;
+}
+
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: auto;
+    justify-content: center;
+}

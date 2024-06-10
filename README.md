@@ -11,3 +11,5 @@ Struggling to figure out where to start as well as how to position content.
 I spent 2 hours on the first attempt at the "hero" section. I was unhappy and started over completely.
 
 As time went on, I started feeling better about how I'm progressing and using the structure of html and dressing it with css.
+
+The information part of the landing page came along a bit smoother as I referenced back to some material more often to ensure I do things right.

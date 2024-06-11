@@ -20,3 +20,5 @@ The information part of the landing page came along a bit smoother as I referenc
 The inspirational quote section went along smoother than the rest of the landing page so far. It came together quite well. Although improvements can be made as time goes on.
 
 The last section of the page seemed to become slightly easier as I have been working will all the different elements for a little while. Becoming more familiar with the aspects thereof.
+
+The footer didn't take much time as it contains the least amount of content. I attributed the copyright to The Odin Project as I'm learning everything from the program.

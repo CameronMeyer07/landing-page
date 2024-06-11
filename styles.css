@@ -178,3 +178,12 @@ div.items {
 p {
    margin: 0;
 }
+
+footer {
+   display: flex;
+   background-color: #1f2937;
+   color: #e5e7eb;
+   font-size: 18px;
+   padding: 32px;
+   justify-content: center;
+}

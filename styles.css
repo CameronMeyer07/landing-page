@@ -86,7 +86,9 @@ ul {
 
  .information {
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
+    margin-top: -24px; 
+    padding-bottom: 96px;
 }
 
 .title {
@@ -101,12 +103,24 @@ ul {
 
 .item-container {
     display: flex;
+    justify-content: center;
+    padding: 0 48px;
+    gap: 48px;
 }
 
 .items {
     display: flex;
     flex-wrap: wrap;
-    width: 200px;
-    height: auto;
+    width: 150px;
     justify-content: center;
+}
+
+div.information img {
+   width: 150px;
+   border-radius: 10px;
+   border: 2px solid #3882f6;
+}
+
+div.items {
+   gap: 4px;
 }

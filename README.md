@@ -1,6 +1,9 @@
 # landing-page
 
 Photo by <a href="https://unsplash.com/@chrisstenger?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chris Stenger</a> on <a href="https://unsplash.com/photos/the-sun-is-setting-over-a-mountain-lake-DTMhL0OpXjQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@mantasos?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tasos Mansour</a> on <a href="https://unsplash.com/photos/black-cat-with-yellow-eyes-kH5_75H-w6Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
   
 Taking on this task is quite daunting when you have only been doing The Odin Project for
 two weeks. All the information seems quite overwhelming. 

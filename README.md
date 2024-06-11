@@ -18,3 +18,5 @@ As time went on, I started feeling better about how I'm progressing and using th
 The information part of the landing page came along a bit smoother as I referenced back to some material more often to ensure I do things right.
 
 The inspirational quote section went along smoother than the rest of the landing page so far. It came together quite well. Although improvements can be made as time goes on.
+
+The last section of the page seemed to become slightly easier as I have been working will all the different elements for a little while. Becoming more familiar with the aspects thereof.

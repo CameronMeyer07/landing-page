@@ -16,3 +16,5 @@ I spent 2 hours on the first attempt at the "hero" section. I was unhappy and st
 As time went on, I started feeling better about how I'm progressing and using the structure of html and dressing it with css.
 
 The information part of the landing page came along a bit smoother as I referenced back to some material more often to ensure I do things right.
+
+The inspirational quote section went along smoother than the rest of the landing page so far. It came together quite well. Although improvements can be made as time goes on.
